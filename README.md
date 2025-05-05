@@ -28,9 +28,9 @@ MoneyMap is a simple and intuitive expense manager app built using **React Nativ
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="https://github.com/QasimNawaz/MoneyMap/blob/main/screenshots/home.png" alt="Home Screen" width="250" />
-  <img src="https://github.com/QasimNawaz/MoneyMap/blob/main/screenshots/add-expense.png" alt="Add Transaction" width="250" />
-  <img src="https://github.com/QasimNawaz/MoneyMap/blob/main/screenshots/summary.png" alt="Summary Screen" width="250" />
+  <img src="https://github.com/QasimNawaz/MoneyMap-RN/blob/main/screenshots/home.png" alt="Home Screen" width="250" />
+  <img src="https://github.com/QasimNawaz/MoneyMap-RN/blob/main/screenshots/add-expense.png" alt="Add Transaction" width="250" />
+  <img src="https://github.com/QasimNawaz/MoneyMap-RN/blob/main/screenshots/summary.png" alt="Summary Screen" width="250" />
 </p>
 
 ---
