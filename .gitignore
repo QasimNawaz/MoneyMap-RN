@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+.expo/
+.expo-shared/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Expo
+web-build/
+dist/
+.expo/
+
+# React Native
+android/.gradle/
+android/app/build/
+ios/build/
+ios/Pods/
+*.iml
+
+# IDEs
+.vscode/
+.idea/
+
+# Misc
+.env
+*.keystore
+*.jks
+android/gradle.properties
+
+# macOS
+*.DS_Store
+
+# Windows
+*.log
+*.tmp
+*.bak
+
+# Build output
+build/
